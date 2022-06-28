@@ -1,7 +1,6 @@
-
 /*
  * File: 13-insert_number.c
- * Auth: Leighsha
+ * Auth: Leighsha Kay
  */
 
 #include "lists.h"
